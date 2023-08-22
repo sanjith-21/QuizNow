@@ -16,7 +16,7 @@ System will allow teachers and students to edit their profile.
 
 Tech Stack Used
 --------------------------------------------------------------------------------------------------------------------------------------------------
-Visual Studio Code, HTML, CSS, Node.js, MySQL, PHP, XAMPP, Diagrams.net
+Visual Studio Code,HTML,CSS,Javascript,MySQL,PHP,XAMPP,Diagrams.net
 
 Data Model
 --------------------------------------------------------------------------------------------------------------------------------------------------
